@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Nobody’s Fault",
+  "base_artist": "Benny Sings",
+  "createdAt": "2025-12-30T07:03:48.363008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody's Fault",
+      "artist": "曲婉婷",
+      "has_synced": true,
+      "path": "select/01_Nobody's_Fault_曲婉婷.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody's Fault But Mine",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/02_Nobody's_Fault_But_Mine_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody's Fault But My Own",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/03_Nobody's_Fault_But_My_Own_Beck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nobody's Fault",
+      "artist": "Phantom Planet",
+      "has_synced": true,
+      "path": "select/04_Nobody's_Fault_Phantom_Planet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nobody's Fault But Mine (Remixed)",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/05_Nobody's_Fault_But_Mine_(Remixed)_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody's Fault But Mine",
+      "artist": "Nina Hagen",
+      "has_synced": false,
+      "path": "select/06_Nobody's_Fault_But_Mine_Nina_Hagen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody’s Fault",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/07_Nobody’s_Fault_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody's Fault",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/08_Nobody's_Fault_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nobody's Fault",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/09_Nobody's_Fault_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nobody's Fault",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/10_Nobody's_Fault_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody's Fault",
+      "artist": "L.A. Guns",
+      "has_synced": true,
+      "path": "select/11_Nobody's_Fault_L.A._Guns.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody's Fault But Mine",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/12_Nobody's_Fault_But_Mine_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody's Fault But Mine",
+      "artist": "Jimmy Page, Robert Plant",
+      "has_synced": true,
+      "path": "select/13_Nobody's_Fault_But_Mine_Jimmy_Page,_Robert_Plant.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nobody's Fault but Mine",
+      "artist": "Eric Bibb",
+      "has_synced": true,
+      "path": "select/14_Nobody's_Fault_but_Mine_Eric_Bibb.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nobody’s Fault",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/15_Nobody’s_Fault_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nobody’s Fault but Mine",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/16_Nobody’s_Fault_but_Mine_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nobody's Fault",
+      "artist": "Benny Sings",
+      "has_synced": false,
+      "path": "select/pl_01_Nobody's_Fault_Benny_Sings.txt"
+    }
+  ]
+}
